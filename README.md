@@ -1,4 +1,4 @@
 # Hello
 # Number Row Characters 
-*+ !
+* !
 
