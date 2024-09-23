@@ -1,4 +1,13 @@
 # Hello
 # Number Row Characters 
 * !
-
+* @
+* #
+* $
+* %
+* ^
+* &
+* *
+* (
+* )
+  
